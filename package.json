@@ -9,9 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@authnomicon/oauth2": "0",
     "bixby": "0",
     "bixby-common": "0",
     "bixby-express": "0",
-    "bixby-http": "0"
+    "bixby-http": "0",
+    "bixby-security": "0",
+    "express": "^4.17.1"
   }
 }
