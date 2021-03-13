@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "bixby": "0",
+    "bixby-common": "0",
+    "bixby-express": "0",
+    "bixby-http": "0"
+  }
 }
