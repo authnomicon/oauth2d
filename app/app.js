@@ -4,8 +4,8 @@ exports = module.exports = function(
 ) {
   var service = require('express')();
 
-  service.use('/authorize', authorizeService);
-  service.use('/token', tokenService);
+  service.use('/oauth2/authorize', authorizeService);
+  service.use('/oauth2/token', tokenService);
     
   return service;
 }

@@ -7,7 +7,7 @@ exports = module.exports = function() {
       return cb(null, {
         id: 's6BhdRkqt3',
         name: 'My Example Client',
-        redirectURIs: [ 'http://localhost:8080/callback' ]
+        redirectURIs: [ 'http://localhost:8080/oauth2/redirect' ]
       });
     }
   }
