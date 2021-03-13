@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@authnomicon/login": "0",
     "@authnomicon/oauth2": "0",
     "@authnomicon/prompt": "0",
     "bixby": "0",
